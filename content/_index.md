@@ -165,9 +165,29 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
+  - block: markdown
+    content:
+      title: News
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - news
+        exclude_featured: true
+    design:
+        columns: '2'
+        # Toggle between the various page layout types.
+        #   1 = List
+        #   2 = Compact
+        #   3 = Card
+        #   5 = Showcase
+        view: Compact
+        flip_alt_rows: false
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
