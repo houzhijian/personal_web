@@ -106,7 +106,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-        header: true
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
