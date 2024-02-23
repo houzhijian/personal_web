@@ -178,7 +178,7 @@ sections:
         * **[05/2023]** :trophy: Won the championship award  at [CVPR 2023 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/cvpr23/).
         * **[05/2023]** :clap: Paper CONE is accepted by ACL 2023.
         * **[09/2022]** Won the third place at [ECCV 2022 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/eccv22/).
-        * **[04/2022]** Intern in Natural Language Computing group at the Microsoft Research Asia, advised by [Lei Ji](https://www.microsoft.com/en-us/research/people/leiji/). 
+        * **[04/2022]** Started an internship in Natural Language Computing group at the Microsoft Research Asia, under the guidance of [Lei Ji](https://www.microsoft.com/en-us/research/people/leiji/). 
         * **[08/2021]** :trophy: Won the championship award at [TRECVid 2021 Ad-hoc Video Search](https://www-nlpir.nist.gov/projects/tv2021/avs.html). 
         * **[07/2021]** :clap: Paper CONQUER is accepted by ACM Multimedia 2021 (oral).
     design:
@@ -208,7 +208,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Researcher 
+        - title: Postgraduate Researcher 
           company: City University of Hong Kong
           company_url: 'https://www.cs.cityu.edu.hk/'
           company_logo: CityU_logo
@@ -216,31 +216,31 @@ sections:
           date_start: '2018-09-01'
           date_end: '2023-10-03'
           description: |-
-            * Designed algorithms for spatial-tempoal action localization in surveillance videos
-            * Designed algorithms for language grounding in multi-modal video content  
-            * Designed algorithms for ad-hoc video retrieval
+            * Designed algorithms for spatial-temporal action localization in surveillance videos.
+            * Developed techniques for language grounding in multi-modal video content.
+            * Innovated on algorithms for ad-hoc video retrieval.
 
             Advisor: [Prof. Chong-Wah Ngo](https://faculty.smu.edu.sg/profile/ngo-chong-wah-601) and [Prof. Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/)
         - title: Research  Intern
-          company: Microsoft Research Aisa
+          company: Microsoft Research Asia
           company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
           company_logo: Microsoft_Research_Asia_logo
           location: Beijing
           date_start: '2022-04-14'
           date_end: '2023-06-30'
           description: |-
-            * Designed algorithms for language grounding in long-form (egocentric) videos
+            * Designed algorithms for language grounding in long-form (egocentric) videos.
 
             Advisor: [Senior Researcher, Lei Ji](https://www.microsoft.com/en-us/research/people/leiji/)
         - title: Research  Assistant
           company: Shandong University 
-          company_url: ''
+          company_url: 'https://www.en.sdu.edu.cn/'
           company_logo: shandong
           location: China
           date_start: '2017-09-01'
           date_end: '2018-06-30'
           description: |-
-            * Designed algorithms for user recommendation in online question answering platforms 
+            * Developed algorithms for user recommendation in online question answering platforms.
 
             Advisor: [Prof. Liqiang Nie](https://liqiangnie.github.io/)
     design:
