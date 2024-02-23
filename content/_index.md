@@ -176,11 +176,11 @@ sections:
       text: |-
         * **[10/2023]** Ph.D. Graduation from City Univeristy of Hong Kong.
         * **[05/2023]** Won the championship award at [CVPR 2023 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/cvpr23/).
-        * 05/2023 Paper CONE is accepted by ACL 2023.
-        * 09/2022 Won the third place at [ECCV 2022 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/eccv22/).
-        * 04/2022 Intern in Natural Language Computing group at the Microsoft Research Asia, advised by [Lei Ji](https://www.microsoft.com/en-us/research/people/leiji/). 
-        * 08/2021 Won the championship award at [TRECVid 2021 Ad-hoc Video Search](https://www-nlpir.nist.gov/projects/tv2021/avs.html). 
-        * 07/2021 Paper CONQUER is accepted by ACM Multimedia 2021 (oral).
+        * **[05/2023]** Paper CONE is accepted by ACL 2023.
+        * **[09/2022]** Won the third place at [ECCV 2022 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/eccv22/).
+        * **[04/2022]** Intern in Natural Language Computing group at the Microsoft Research Asia, advised by [Lei Ji](https://www.microsoft.com/en-us/research/people/leiji/). 
+        * **[08/2021]** Won the championship award at [TRECVid 2021 Ad-hoc Video Search](https://www-nlpir.nist.gov/projects/tv2021/avs.html). 
+        * **[07/2021]** Paper CONQUER is accepted by ACM Multimedia 2021 (oral).
     design:
         columns: '2'
   - block: collection
@@ -215,15 +215,31 @@ sections:
           location: Hong Kong
           date_start: '2018-09-01'
           date_end: '2023-10-03'
-          description: ddd
-        - title: Professor of Semiconductor Physics
+          description: |-
+            * Designed algorithms for spatial-tempoal action localization in surveillance videos
+            * Designed algorithms for language grounding for multi-modal video content  
+            * Designed algorithms for ad-hoc video retrieval
+            Advisor: Prof. CW Ngo and Prof. Wing-kwong Chan
+        - title: Research  Intern
+          company: Microsoft Research Aisa
+          company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
+          company_logo: Microsoft_Research_Asia_logo
+          location: Beijing
+          date_start: '2022-04-14'
+          date_end: '2023-06-31'
+          description: |-
+            * Designed algorithms for language grounding in long-form videos
+            Advisor: Lei Ji
+        - title: Research  Assistant
           company: Shandong University 
           company_url: ''
           company_logo: org-x
           location: China
-          date_start: '2014-09-01'
-          date_end: '2018-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2017-09-01'
+          date_end: '2018-06-31'
+          description: |-
+            * Designed algorithms for user recommendation in online question answering platform 
+            Advisor: Liqiang Nie
     design:
       columns: '2'
   # - block: collection
