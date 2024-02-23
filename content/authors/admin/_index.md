@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 侯智健
+title: Zhijian "James" Hou
 
 # Name pronunciation (optional)
-name_pronunciation: Zhijian Hou
+name_pronunciation: #Zhijian Hou
 
 # Full name (for SEO)
 first_name: Zhijian 
@@ -30,8 +30,8 @@ bio: ""
 # Interests to show in About widget
 interests:
   - Vision and Language
-  - Video Moment Retrieval
   - First-person Vision 
+  - Video Moment Retrieval
 
 # Education to show in About widget
 education:
@@ -116,7 +116,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! This is Zhijian "James" Hou (侯智健). I have obtained Ph.D. student in Computer Science at Cityu University of Hong Kong.  
+Hello! This is Zhijian "James" Hou (侯智健). I obtained Ph.D. certificate in Computer Science Department at City University of Hong Kong.  I do research on Computer Vision and Natural Language Processing. I am broadly interested in the application of (multi-modal) video analysis, particularly at localizing video moments via natural language sentences.  
 <!-- I do research on Embodied AI, NLP, and Robotics. I am interested in understanding natural language by grounding to robots and physical world, and using natural language as feedback to teach and improve embodied agent. My dream is to build and deploy household robots to homes around the world to help humans with daily tasks and needs. -->
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
