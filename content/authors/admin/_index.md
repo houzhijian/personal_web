@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 侯智健
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhijian Hou
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhijian 
+last_name: Hou
 
 # Status emoji
 status:
@@ -17,34 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Looking for research-related jobs
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name:  Hold Ph.D. certificate in City University of Hong Kong
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Vision and Language
+  - Video Moment Retrieval
+  - First-person Vision 
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: City University of Hong Kong
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science
+      institution: Shandong University, China
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -102,12 +99,10 @@ social:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=v_ufvFUAAAAJ&view_op=list_works&gmla=AILGF5Ve_b2xTQzE_ZSKO1tUnWRnv_hto2G5hWUBSEOHJrnXgbc7wi1Hjxx4mzjihI8HTAzzI6C-0hAh2qgijng
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-    display:
-      header: true
+    link: https://github.com/houzhijian
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -121,6 +116,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! This is Zhijian "James" Hou (侯智健). I have obtained Ph.D. student in Computer Science and Engineering at Cityu University of Hong Kong.  
+<!-- I do research on Embodied AI, NLP, and Robotics. I am interested in understanding natural language by grounding to robots and physical world, and using natural language as feedback to teach and improve embodied agent. My dream is to build and deploy household robots to homes around the world to help humans with daily tasks and needs. -->
+<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
