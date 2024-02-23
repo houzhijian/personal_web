@@ -226,7 +226,7 @@ sections:
           company_logo: Microsoft_Research_Asia_logo
           location: Beijing
           date_start: '2022-04-14'
-          date_end: '2023-06-31'
+          date_end: '2023-06-30'
           description: |-
             * Designed algorithms for language grounding in long-form videos
             Advisor: Lei Ji
@@ -236,7 +236,7 @@ sections:
           company_logo: org-x
           location: China
           date_start: '2017-09-01'
-          date_end: '2018-06-31'
+          date_end: '2018-06-30'
           description: |-
             * Designed algorithms for user recommendation in online question answering platform 
             Advisor: Liqiang Nie
