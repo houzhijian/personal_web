@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 # Interests to show in About widget
 interests:
@@ -36,12 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Computer Science
       institution: City University of Hong Kong
-      year: 2012
+      year: 2023
     - course: BSc in Computer Science
       institution: Shandong University, China
-      year: 2014
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -116,7 +116,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! This is Zhijian "James" Hou (侯智健). I have obtained Ph.D. student in Computer Science and Engineering at Cityu University of Hong Kong.  
+Hello! This is Zhijian "James" Hou (侯智健). I have obtained Ph.D. student in Computer Science at Cityu University of Hong Kong.  
 <!-- I do research on Embodied AI, NLP, and Robotics. I am interested in understanding natural language by grounding to robots and physical world, and using natural language as feedback to teach and improve embodied agent. My dream is to build and deploy household robots to homes around the world to help humans with daily tasks and needs. -->
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
