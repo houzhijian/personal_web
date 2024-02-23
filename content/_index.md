@@ -174,8 +174,8 @@ sections:
       #   {{% /callout %}}
       # subtitle: A subtitle
       text: |-
-        * 10/2023 Ph.D. Graduation from City Univeristy of Hong Kong.
-        * 05/2023 Won the championship award at [CVPR 2023 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/cvpr23/).
+        * **[10/2023]** Ph.D. Graduation from City Univeristy of Hong Kong.
+        * **[05/2023]** Won the championship award at [CVPR 2023 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/cvpr23/).
         * 05/2023 Paper CONE is accepted by ACL 2023.
         * 09/2022 Won the third place at [ECCV 2022 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/eccv22/).
         * 04/2022 Intern in Natural Language Computing group at the Microsoft Research Asia, advised by [Lei Ji](https://www.microsoft.com/en-us/research/people/leiji/). 
@@ -208,7 +208,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. 
+        - title: Graduate Researcher 
           company: City University of Hong Kong
           company_url: ''
           company_logo: org-gc
