@@ -34,7 +34,9 @@ abstract: This paper tackles an emerging and challenging problem of long video t
   inference time by 2x on Ego4D-NLQ and 15x on MAD while keeping SOTA results. Codes
   have been released at r̆lhttps://github.com/houzhijian/CONE.
 links:
-- name: URL
+- icon_pack: fab
+  icon: scroll
+  name: URL
   url: https://aclanthology.org/2023.acl-long.445
 - icon_pack: fab
   icon: github

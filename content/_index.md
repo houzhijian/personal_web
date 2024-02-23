@@ -176,11 +176,11 @@ sections:
       text: |-
         * 10/2023 Ph.D. Graduation from City Univeristy of Hong Kong.
         * 05/2023 Won the championship award at [CVPR 2023 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/cvpr23/).
-        * 05/2023 One paper is accepted by ACL 2023.
+        * 05/2023 Paper CONE is accepted by ACL 2023.
         * 09/2022 Won the third place at [ECCV 2022 Ego4D Natural Language Queries Challenge](https://ego4d-data.org/workshops/eccv22/).
         * 04/2022 Intern in Natural Language Computing group at the Microsoft Research Asia, advised by [Lei Ji](https://www.microsoft.com/en-us/research/people/leiji/). 
         * 08/2021 Won the championship award at [TRECVid 2021 Ad-hoc Video Search](https://www-nlpir.nist.gov/projects/tv2021/avs.html). 
-        * 07/2021 One paper (1 oral) is accepted by ACM Multimedia 2021.
+        * 07/2021 Paper CONQUER is accepted by ACM Multimedia 2021 (oral).
     design:
         columns: '2'
   - block: collection
