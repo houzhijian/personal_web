@@ -172,13 +172,13 @@ sections:
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
-      subtitle: A subtitle
+      # subtitle: A subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       # - 04/2022 - 12/2022 Intern in Natural Language Computing group at the Microsoft Research Asia, advised by [Lei Ji](https://www.microsoft.com/en-us/research/people/leiji/). 
       # - 08/2021 Our team is the winner of [TRECVid 2021 Ad-hoc Video Search](https://www-nlpir.nist.gov/projects/tv2021/avs.html).
       # - 07/2021 One paper (1 oral) is accepted by ACM Multimedia 2021.
     design:
-        columns: '1'
+        columns: '2'
   - block: collection
     content:
       title: Publications
