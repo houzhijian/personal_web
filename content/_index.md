@@ -217,9 +217,10 @@ sections:
           date_end: '2023-10-03'
           description: |-
             * Designed algorithms for spatial-tempoal action localization in surveillance videos
-            * Designed algorithms for language grounding for multi-modal video content  
+            * Designed algorithms for language grounding in multi-modal video content  
             * Designed algorithms for ad-hoc video retrieval
-            * Advisor: Prof. CW Ngo and Prof. Wing-kwong Chan
+
+            Advisor: Prof. CW Ngo and Prof. Wing-kwong Chan
         - title: Research  Intern
           company: Microsoft Research Aisa
           company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
@@ -229,17 +230,18 @@ sections:
           date_end: '2023-06-30'
           description: |-
             * Designed algorithms for language grounding in long-form videos
+
             Advisor: Lei Ji
-        # - title: Research  Assistant
-        #   company: Shandong University 
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: China
-        #   date_start: '2017-09-01'
-        #   date_end: '2018-06-30'
-        #   description: |-
-        #     * Designed algorithms for user recommendation in online question answering platform 
-        #     * Advisor: Liqiang Nie
+        - title: Research  Assistant
+          company: Shandong University 
+          company_url: ''
+          company_logo: org-x
+          location: China
+          date_start: '2017-09-01'
+          date_end: '2018-06-30'
+          description: |-
+            * Designed algorithms for user recommendation in online question answering platform 
+            * Advisor: Liqiang Nie
     design:
       columns: '2'
   # - block: collection
