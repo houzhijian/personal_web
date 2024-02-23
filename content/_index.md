@@ -235,13 +235,14 @@ sections:
         - title: Research  Assistant
           company: Shandong University 
           company_url: ''
-          company_logo: org-x
+          company_logo: shandong
           location: China
           date_start: '2017-09-01'
           date_end: '2018-06-30'
           description: |-
             * Designed algorithms for user recommendation in online question answering platform 
-            * Advisor: Liqiang Nie
+            
+            Advisor: Liqiang Nie
     design:
       columns: '2'
   # - block: collection
