@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Looking for research-related jobs
+role: Research-related job hunting
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name:  Hold Ph.D. certificate in City University of Hong Kong
+  - name:  Previously at City University of Hong Kong
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -116,7 +116,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! This is Zhijian "James" Hou (侯智健). I obtained Ph.D. certificate in Computer Science Department at City University of Hong Kong.  I do research on Computer Vision and Natural Language Processing. I am broadly interested in the application of (multi-modal) video analysis, particularly at localizing video moments via natural language sentences.  
+Hello! This is Zhijian "James" Hou (侯智健). I obtained a Ph.D. degree in [Computer Science Department](https://www.cs.cityu.edu.hk/) at City University of Hong Kong, advised by [Prof. Chong-Wah Ngo](https://faculty.smu.edu.sg/profile/ngo-chong-wah-601) and [Prof. Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/). Prior to CityU, I obtained my bachelor's degree from Shandong University in China, with guidance from [Prof. Liqiang Nie](https://liqiangnie.github.io/).
+
+I do research on Computer Vision and Natural Language Processing. I am broadly interested in the application of (multi-modal) video analysis and synthesis, particularly at localizing video moments via natural language sentences.  
+
 <!-- I do research on Embodied AI, NLP, and Robotics. I am interested in understanding natural language by grounding to robots and physical world, and using natural language as feedback to teach and improve embodied agent. My dream is to build and deploy household robots to homes around the world to help humans with daily tasks and needs. -->
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
