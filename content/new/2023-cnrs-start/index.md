@@ -7,8 +7,6 @@ image:
   focal_point: Smart
 slides: example
 summary: I will be mainly working on the separation of fluid mixture using soft matter membrane, in LiPhy, Grenoble.
-tags:
-- Personal
 title: I have obtained a position at French CNRS
 links:
   - icon_pack: fas
